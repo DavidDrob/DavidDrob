@@ -1,7 +1,7 @@
 👋 Hi, I’m David currently living near Vienna, Austria. I started coding small websites with HTML&CSS in like 3rd grade in middle school (you don't want to see them).
-Later I discovered python which I really liked but didn't know what to use it for, so I started learning JS to make my websites more interactive.
+Later I discovered python which I really liked but didn't know what to use it for, so I started learning JS to make my websites more interactive. Now I am looking to gain some experience on real projects.
 
-🌱 I’m currently learning how to use Vue.JS
+🌱 Currently learning Vue.JS
 
 👀 Check out my repository called ```faceit-discord-bot``` it's my biggest project and I'm really proud of it!
 
