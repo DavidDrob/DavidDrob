@@ -1,5 +1,5 @@
-👋 Hi, I’m David currently living near Vienna, Austria. I started coding small websites with HTML&CSS in like 3rd grade in middle school (you don't want to see them).
-Later I discovered python which I really liked but didn't know what to use it for, so I started learning JS to make my websites more interactive. Now I am looking to gain some experience on real projects.
+👋 Hi, I’m David currently living near Vienna, Austria. I started coding small websites with HTML&CSS in middle school.
+Later I discovered python and eventually learnt JavaScript to make my websites more interactive. Now I am looking to gain some experience on real projects.
 
 🌱 Currently learning Vue.JS
 
